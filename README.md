@@ -71,14 +71,3 @@ Glassmorphic React component system to quickly integrate visually striking UI bl
 - [Twitter](https://twitter.com/iyoolaoyabiyi)
 
 ---
-
-```shell
-> iyoolaoyabiyi@github:~$ github-stats --show
-```
-
-![Iyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyoolaoyabiyi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iyoolaoyabiyi&layout=compact&theme=tokyonight)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=iyoolaoyabiyi&theme=tokyonight)](https://git.io/streak-stats)  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=iyoolaoyabiyi&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
----
