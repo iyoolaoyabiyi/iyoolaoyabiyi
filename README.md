@@ -6,7 +6,7 @@
 > iyoolaoyabiyi@github:~$ whoami
 ```
 
-I'm Iyo: programmer focused on web technologies and software systems.  
+I'm Iyo: a programmer focused on web technologies and software systems.  
 Passionate about building practical tools, user-friendly interfaces, and learning deeply.
 
 ---
