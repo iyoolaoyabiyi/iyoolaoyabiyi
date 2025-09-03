@@ -6,7 +6,7 @@
 > iyoolaoyabiyi@github:~$ whoami
 ```
 
-I'm Iyo: a self-taught programmer focused on web technologies and software systems.  
+I'm Iyo: a programmer focused on web technologies and software systems.  
 Passionate about building practical tools, user-friendly interfaces, and learning deeply.
 
 ---
@@ -32,15 +32,6 @@ Passionate about building practical tools, user-friendly interfaces, and learnin
 - Backend development & APIs
 - AWS and cloud architecture
 - Deepening computer science fundamentals
-
----
-
-```shell
-> iyoolaoyabiyi@github:~$ projects --recent
-```
-
-[![Shadcn Blocks](https://img.shields.io/badge/Shadcn%20Blocks-Glassmorphic%20UI-informational?style=flat-square&logo=react)](https://shadcn-blocks-trial.vercel.app/)  
-Glassmorphic React component system to quickly integrate visually striking UI blocks.
 
 ---
 
